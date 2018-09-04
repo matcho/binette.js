@@ -1,0 +1,24 @@
+{
+  "name": "binette.js",
+  "version": "1.0.0",
+  "description": "A Javascript program that replaces character sequences like :-D by unicode emoticons like (U+1F603)",
+  "main": "binette.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matcho/binette.js.git"
+  },
+  "keywords": [
+    "emoticon",
+    "emoji",
+    "binette"
+  ],
+  "author": "Mathias Chouet",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/matcho/binette.js/issues"
+  },
+  "homepage": "https://github.com/matcho/binette.js#readme"
+}

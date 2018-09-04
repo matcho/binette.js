@@ -10,7 +10,7 @@ Some characters might be poorly chosen (regarding common font support for exampl
 
 ## Install
 ```
-bower install binette.js
+npm install binette.js
 ```
 
 ## Usage
